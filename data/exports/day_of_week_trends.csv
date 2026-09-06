@@ -1,0 +1,8 @@
+day_of_week,day_name,total_flights,avg_arr_delay_minutes,on_time_pct
+1,Monday,1050150,10.2,76.0
+2,Tuesday,945648,4.1,81.4
+3,Wednesday,966102,5.0,80.5
+4,Thursday,1040825,9.6,76.4
+5,Friday,1044333,9.5,76.5
+6,Saturday,906399,6.9,78.8
+7,Sunday,1048162,13.5,73.4

@@ -3,7 +3,7 @@
 SELECT
     carrier_code,
     on_time_pct,
-    RANK() OVER (ORDER BY on_time_pct DESC) AS reliability_rak
+    RANK() OVER (ORDER BY on_time_pct DESC) AS reliability_rank
 FROM (
     SELECT
         c.carrier_code,
